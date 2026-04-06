@@ -35,18 +35,18 @@ The user will paste a messy list of GitHub repo URLs, often with free-form categ
    - **New section needed?** If several repos in the dump cluster around a theme that doesn't fit any existing section (e.g. "Voice Agents", "Embodied / Robotics", "Mobile Agents", "Memory", "Browser Extensions", "Email Agents", "Research Assistants", "Gateways & Proxies"), propose a new section. Don't create a new section for a single entry unless the user's dump clearly signals it.
    - The user's free-form header is a strong hint but override it if SCOPE.md says otherwise. When in doubt, note the ambiguity in the final report rather than silently guessing.
 
-5. **Insert entries.** For each accepted repo, add an entry in the correct section using the existing format:
+5. **Insert entries.** For each accepted repo, add an entry in the correct section using this format:
    ```markdown
-   #### [name](https://github.com/owner/repo)
+   #### [Name](https://github.com/owner/repo)
 
    ![Stars](https://img.shields.io/github/stars/owner/repo?style=social) ![Last commit](https://img.shields.io/github/last-commit/owner/repo) <other badges>
 
-   <1–2 sentence description, usually derived from the GitHub description>
-
-   **Language:** <lang> · **Author:** [owner](https://github.com/owner)
+   <1–2 sentence description — this is the most important part>
 
    ---
    ```
+   - **Use a normalized display name** (e.g. `Codex`, not `codex`; `OpenHands`, not `openhands`). Capitalize properly; respect intentional lowercase brands (`aider`, `goose`).
+   - **Do NOT include author or language lines** — the description carries the weight.
    - Maintain **alphabetical order within each section/subsection**.
    - Only add capability badges (Local, MCP, Tools, Use) when you have evidence from the description — don't guess.
    - Use Type badge (1st-party / 3rd-party) for coding agents in §1.

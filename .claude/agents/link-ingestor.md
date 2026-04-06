@@ -47,19 +47,19 @@ You are the **link-ingestor** subagent for the `Desktop-AI-Agents` resource-list
 
    **Exclude out-of-scope repos.** Report each exclusion with a one-line reason tied to SCOPE.md ("cloud-hosted only", "pure inference engine", "IDE-only with CLI as companion", etc.).
 
-5. **Insert entries** using the existing format. For a new entry:
+5. **Insert entries** using this format:
    ```markdown
-   #### [name](https://github.com/owner/repo)
+   #### [Name](https://github.com/owner/repo)
 
    ![Stars](https://img.shields.io/github/stars/owner/repo?style=social) ![Last commit](https://img.shields.io/github/last-commit/owner/repo) <capability badges if supported by evidence>
 
-   <1–2 sentence description>
-
-   **Language:** <lang> · **Author:** [owner](https://github.com/owner)
+   <1–2 sentence description — this is the most important part>
 
    ---
    ```
-   - **Alphabetical order** within each section/subsection.
+   - **Normalized display name.** Use proper capitalization (e.g. `Codex`, not `codex`; `OpenHands`, not `openhands`) but respect intentional lowercase brands (`aider`, `goose`).
+   - **No author or language lines.** The description carries the entry.
+   - **Alphabetical order** within each section/subsection (case-insensitive on the display name).
    - **Conservative badges.** Only add Local/MCP/Tools/Use/Type badges when the GitHub description or README gives clear evidence. Under-claiming beats over-claiming.
    - Type badge (1st-party / 3rd-party) is required in §1.
 

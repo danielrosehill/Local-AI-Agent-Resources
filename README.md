@@ -46,6 +46,7 @@ Each entry is tagged with shields.io badges. Stars and last-commit update dynami
 - [14. Memory](#14-memory)
 - [15. Gateways & Proxies](#15-gateways--proxies)
 - [16. Browser Extensions & Web Agents](#16-browser-extensions--web-agents)
+- [17. Research Assistants](#17-research-assistants)
 - [Related Resource Lists](#related-resource-lists)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
@@ -180,6 +181,14 @@ The open source coding agent — provider-agnostic TUI coding agent.
 
 ---
 
+#### [open-swe](https://github.com/langchain-ai/open-swe)
+
+![Stars](https://img.shields.io/github/stars/langchain-ai/open-swe?style=social) ![Last commit](https://img.shields.io/github/last-commit/langchain-ai/open-swe) ![Type](https://img.shields.io/badge/Type-3rd--party-lightgrey) ![Use](https://img.shields.io/badge/Use-Code-yellow)
+
+An open-source asynchronous coding agent from the LangChain team.
+
+---
+
 #### [pi-mono](https://github.com/badlogic/pi-mono)
 
 ![Stars](https://img.shields.io/github/stars/badlogic/pi-mono?style=social) ![Last commit](https://img.shields.io/github/last-commit/badlogic/pi-mono) ![Type](https://img.shields.io/badge/Type-3rd--party-lightgrey) ![UI](https://img.shields.io/badge/UI-CLI-green) ![Use](https://img.shields.io/badge/Use-Code-yellow)
@@ -256,7 +265,31 @@ A desktop app for isolated, parallel agentic development, from Coder.
 
 ---
 
+#### [Vibe Kanban](https://github.com/BloopAI/vibe-kanban)
+
+![Stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=social) ![Last commit](https://img.shields.io/github/last-commit/BloopAI/vibe-kanban)
+
+Kanban-style task manager for orchestrating Claude Code, Codex, and other coding agents — get more out of any agent CLI.
+
+---
+
 ### Orchestrators
+
+#### [AgentChattr](https://github.com/bcurts/agentchattr)
+
+![Stars](https://img.shields.io/github/stars/bcurts/agentchattr?style=social) ![Last commit](https://img.shields.io/github/last-commit/bcurts/agentchattr) ![Local](https://img.shields.io/badge/Local-Yes-orange)
+
+Free, local chat where AI coding agents can tag each other, talk, and coordinate alongside the human.
+
+---
+
+#### [AgentFlow](https://github.com/shouc/agentflow)
+
+![Stars](https://img.shields.io/github/stars/shouc/agentflow?style=social) ![Last commit](https://img.shields.io/github/last-commit/shouc/agentflow)
+
+Programmatically orchestrate thousands of agents and harnesses as a graph.
+
+---
 
 #### [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator)
 
@@ -290,6 +323,14 @@ Private Agent Fleet with Spec Coding — each agent gets its own GPU-accelerated
 
 ### Tools & MCP Servers
 
+#### [AgentFS](https://github.com/tursodatabase/agentfs)
+
+![Stars](https://img.shields.io/github/stars/tursodatabase/agentfs?style=social) ![Last commit](https://img.shields.io/github/last-commit/tursodatabase/agentfs)
+
+A filesystem designed for agents, from the Turso team.
+
+---
+
 #### [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 ![Stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social) ![Last commit](https://img.shields.io/github/last-commit/ChromeDevTools/chrome-devtools-mcp) ![MCP](https://img.shields.io/badge/MCP-Yes-purple)
@@ -307,6 +348,14 @@ Chrome DevTools for coding agents — exposes browser debugging to agents via MC
 MCP server giving Claude terminal control, filesystem search, and diff-file editing.
 
 **Language:** TypeScript · **Author:** [wonderwhy-er](https://github.com/wonderwhy-er)
+
+---
+
+#### [Skill Scanner](https://github.com/cisco-ai-defense/skill-scanner)
+
+![Stars](https://img.shields.io/github/stars/cisco-ai-defense/skill-scanner?style=social) ![Last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/skill-scanner)
+
+Security scanner for Agent Skills, from Cisco AI Defense.
 
 ---
 
@@ -346,6 +395,22 @@ A complete AI agency at your fingertips — specialized expert agents with perso
 
 ---
 
+#### [Agency Swarm](https://github.com/VRSEN/agency-swarm)
+
+![Stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social) ![Last commit](https://img.shields.io/github/last-commit/VRSEN/agency-swarm)
+
+A reliable multi-agent orchestration framework.
+
+---
+
+#### [Aurogen](https://github.com/UniRound-Tec/Aurogen)
+
+![Stars](https://img.shields.io/github/stars/UniRound-Tec/Aurogen?style=social) ![Last commit](https://img.shields.io/github/last-commit/UniRound-Tec/Aurogen)
+
+The multi-agent evolution of OpenClaw.
+
+---
+
 #### [hive](https://github.com/aden-hive/hive)
 
 ![Stars](https://img.shields.io/github/stars/aden-hive/hive?style=social) ![Last commit](https://img.shields.io/github/last-commit/aden-hive/hive)
@@ -363,6 +428,22 @@ Multi-Agent Harness for Production AI.
 TypeScript multi-agent framework — one `runTeam()` call from goal to result. Auto task decomposition, parallel execution, three dependencies, deploys anywhere Node.js runs.
 
 **Language:** TypeScript · **Author:** [JackChen-me](https://github.com/JackChen-me)
+
+---
+
+#### [ROMA](https://github.com/sentient-agi/ROMA)
+
+![Stars](https://img.shields.io/github/stars/sentient-agi/ROMA?style=social) ![Last commit](https://img.shields.io/github/last-commit/sentient-agi/ROMA)
+
+Recursive-Open-Meta-Agent — a meta-agent framework for building high-performance multi-agent systems.
+
+---
+
+#### [Shannon](https://github.com/Kocoro-lab/Shannon)
+
+![Stars](https://img.shields.io/github/stars/Kocoro-lab/Shannon?style=social) ![Last commit](https://img.shields.io/github/last-commit/Kocoro-lab/Shannon)
+
+A production-oriented multi-agent orchestration framework.
 
 ---
 
@@ -397,6 +478,30 @@ AGENTS.md — a simple, open format for guiding coding agents.
 Specification and documentation for Agent Skills.
 
 **Language:** Python · **Author:** [agentskills](https://github.com/agentskills)
+
+---
+
+#### [gh-aw](https://github.com/github/gh-aw)
+
+![Stars](https://img.shields.io/github/stars/github/gh-aw?style=social) ![Last commit](https://img.shields.io/github/last-commit/github/gh-aw)
+
+GitHub Agentic Workflows — a `gh` extension for defining and running agentic workflows.
+
+---
+
+#### [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+
+![Stars](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=social) ![Last commit](https://img.shields.io/github/last-commit/code-yeongyu/oh-my-openagent)
+
+omo — an agent harness (formerly oh-my-opencode).
+
+---
+
+#### [OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)
+
+![Stars](https://img.shields.io/github/stars/darrenhinde/OpenAgentsControl?style=social) ![Last commit](https://img.shields.io/github/last-commit/darrenhinde/OpenAgentsControl)
+
+Plan-first AI agent framework with approval-based execution, multi-language support, and built-in testing/review — built for OpenCode.
 
 ---
 
@@ -464,6 +569,14 @@ Open agentic framework that uses computers like a human.
 
 ---
 
+#### [AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI)
+
+![Stars](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social) ![Last commit](https://img.shields.io/github/last-commit/OpenBMB/AgentCPM-GUI) ![Local](https://img.shields.io/badge/Local-Yes-orange)
+
+On-device GUI agent for operating Android apps, with reinforcement fine-tuning for efficient task execution.
+
+---
+
 #### [clawdcursor](https://github.com/AmrDab/clawdcursor)
 
 ![Stars](https://img.shields.io/github/stars/AmrDab/clawdcursor?style=social) ![Last commit](https://img.shields.io/github/last-commit/AmrDab/clawdcursor) ![Use](https://img.shields.io/badge/Use-Sysadmin-yellow)
@@ -481,6 +594,14 @@ AI desktop agent that sees your screen, controls your cursor, and completes task
 Open-source infrastructure for computer-use agents — sandboxes, SDKs, and benchmarks for agents that control macOS/Linux/Windows desktops.
 
 **Language:** Python · **Author:** [trycua](https://github.com/trycua)
+
+---
+
+#### [MobiAgent](https://github.com/IPADS-SAI/MobiAgent)
+
+![Stars](https://img.shields.io/github/stars/IPADS-SAI/MobiAgent?style=social) ![Last commit](https://img.shields.io/github/last-commit/IPADS-SAI/MobiAgent)
+
+An intelligent GUI agent for mobile phones.
 
 ---
 
@@ -605,6 +726,14 @@ Multi-model AI agent desktop client — connect any provider, extend with MCP & 
 Self-hosted OS for personal AI agents. Security-first, multi-channel (WhatsApp, Telegram, Discord, Slack, iMessage), multi-provider (Claude, GPT, Gemini, Ollama).
 
 **Language:** TypeScript · **Author:** [CoWork-OS](https://github.com/CoWork-OS)
+
+---
+
+#### [Deep Agents UI](https://github.com/langchain-ai/deep-agents-ui)
+
+![Stars](https://img.shields.io/github/stars/langchain-ai/deep-agents-ui?style=social) ![Last commit](https://img.shields.io/github/last-commit/langchain-ai/deep-agents-ui) ![UI](https://img.shields.io/badge/UI-GUI-green)
+
+Custom UI for LangChain's Deep Agents.
 
 ---
 
@@ -954,6 +1083,22 @@ Capabilities for on-device agents that need to hold funds or transact.
 
 ---
 
+#### [AgentKit (0xGasless)](https://github.com/0xgasless/agentkit)
+
+![Stars](https://img.shields.io/github/stars/0xgasless/agentkit?style=social) ![Last commit](https://img.shields.io/github/last-commit/0xgasless/agentkit)
+
+Toolkit giving AI agents access to crypto wallets and on-chain functionality, powered by the 0xGasless SDK.
+
+---
+
+#### [GOAT](https://github.com/goat-sdk/goat)
+
+![Stars](https://img.shields.io/github/stars/goat-sdk/goat?style=social) ![Last commit](https://img.shields.io/github/last-commit/goat-sdk/goat)
+
+The leading agentic finance toolkit for AI agents.
+
+---
+
 ## 11. Skill Collections
 
 Collections of portable agent "skills" — prompt/instruction packages designed to plug into multiple agent harnesses.
@@ -1005,6 +1150,46 @@ An agentic skills framework and software development methodology that works.
 Vercel's official collection of agent skills.
 
 **Language:** JavaScript · **Author:** [vercel-labs](https://github.com/vercel-labs)
+
+---
+
+#### [apify/agent-skills](https://github.com/apify/agent-skills)
+
+![Stars](https://img.shields.io/github/stars/apify/agent-skills?style=social) ![Last commit](https://img.shields.io/github/last-commit/apify/agent-skills)
+
+Collection of Apify Agent Skills for web scraping and automation.
+
+---
+
+#### [aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills)
+
+![Stars](https://img.shields.io/github/stars/itsmostafa/aws-agent-skills?style=social) ![Last commit](https://img.shields.io/github/last-commit/itsmostafa/aws-agent-skills)
+
+AWS skills for agents.
+
+---
+
+#### [awesome-agent-skills (libukai)](https://github.com/libukai/awesome-agent-skills)
+
+![Stars](https://img.shields.io/github/stars/libukai/awesome-agent-skills?style=social) ![Last commit](https://img.shields.io/github/last-commit/libukai/awesome-agent-skills)
+
+The Ultimate Guide to Agent Skills: quickstart, resources, features, and toolkit.
+
+---
+
+#### [obsidian-skills](https://github.com/kepano/obsidian-skills)
+
+![Stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=social) ![Last commit](https://img.shields.io/github/last-commit/kepano/obsidian-skills)
+
+Agent skills for Obsidian — teach your agent to use Markdown, Bases, JSON Canvas, and the Obsidian CLI.
+
+---
+
+#### [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)
+
+![Stars](https://img.shields.io/github/stars/tech-leads-club/agent-skills?style=social) ![Last commit](https://img.shields.io/github/last-commit/tech-leads-club/agent-skills)
+
+Secure, validated skill registry for professional AI coding agents — extends Claude Code, Cursor, Copilot, Antigravity, and more.
 
 ---
 
@@ -1080,6 +1265,22 @@ Manage agents remotely from your phone, desktop, and CLI.
 
 Memory layers that give on-device agents persistent recall across sessions.
 
+#### [Beads](https://github.com/gastownhall/beads)
+
+![Stars](https://img.shields.io/github/stars/gastownhall/beads?style=social) ![Last commit](https://img.shields.io/github/last-commit/gastownhall/beads)
+
+A memory upgrade for your coding agent.
+
+---
+
+#### [Hindsight](https://github.com/vectorize-io/hindsight)
+
+![Stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social) ![Last commit](https://img.shields.io/github/last-commit/vectorize-io/hindsight)
+
+Agent memory that learns over time.
+
+---
+
 #### [mem0](https://github.com/mem0ai/mem0)
 
 ![Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social) ![Last commit](https://img.shields.io/github/last-commit/mem0ai/mem0)
@@ -1116,7 +1317,15 @@ Next-generation agentic proxy for AI agents and MCP servers.
 
 ## 16. Browser Extensions & Web Agents
 
-Agents that run inside the browser as extensions — local-first, privacy-preserving.
+Browser-resident agents and toolkits for driving the browser from an on-device agent.
+
+#### [AgentQL](https://github.com/tinyfish-io/agentql)
+
+![Stars](https://img.shields.io/github/stars/tinyfish-io/agentql?style=social) ![Last commit](https://img.shields.io/github/last-commit/tinyfish-io/agentql)
+
+Suite of tools for connecting AI to the web — query language and Playwright integrations for precise element interaction and data extraction.
+
+---
 
 #### [AIPex](https://github.com/AIPexStudio/AIPex)
 
@@ -1135,6 +1344,42 @@ AI browser-automation assistant, privacy-first. Alternative to Manus Browser Ope
 NativeMind — fully private, open-source, on-device AI assistant that lives as a browser extension.
 
 **Language:** TypeScript · **Author:** [NativeMindBrowser](https://github.com/NativeMindBrowser)
+
+---
+
+#### [Browser Agent (Magnitude)](https://github.com/magnitudedev/browser-agent)
+
+![Stars](https://img.shields.io/github/stars/magnitudedev/browser-agent?style=social) ![Last commit](https://img.shields.io/github/last-commit/magnitudedev/browser-agent)
+
+Open-source, vision-first browser agent.
+
+---
+
+#### [openbrowser](https://github.com/ntegrals/openbrowser)
+
+![Stars](https://img.shields.io/github/stars/ntegrals/openbrowser?style=social) ![Last commit](https://img.shields.io/github/last-commit/ntegrals/openbrowser)
+
+Autonomous toolkit that lets AI agents browse the web.
+
+---
+
+## 17. Research Assistants
+
+Agents focused on long-form research, deep diligence, and report generation.
+
+#### [Company Research Agent](https://github.com/guy-hartstein/company-research-agent)
+
+![Stars](https://img.shields.io/github/stars/guy-hartstein/company-research-agent?style=social) ![Last commit](https://img.shields.io/github/last-commit/guy-hartstein/company-research-agent)
+
+Multi-agent company-research / due-diligence tool built on LangGraph and Tavily, using Gemini and GPT-class models on the backend.
+
+---
+
+#### [Dexter](https://github.com/virattt/dexter)
+
+![Stars](https://img.shields.io/github/stars/virattt/dexter?style=social) ![Last commit](https://img.shields.io/github/last-commit/virattt/dexter)
+
+An autonomous agent for deep financial research.
 
 ---
 
