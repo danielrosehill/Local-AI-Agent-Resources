@@ -6,18 +6,11 @@ The underlying *model* may be a hosted API (Anthropic, OpenAI, xAI, Mistral…) 
 
 ## Scope
 
-**In scope**
-- CLI / TUI coding agents you run in a repo
-- Sysadmin-style agents that use your filesystem, shell, and networked resources
-- Tooling that wraps, orchestrates, or manages on-device agent CLIs
-- Multi-agent frameworks that execute locally
-- Agent harness specifications (AGENTS.md, Skills, etc.)
+See [SCOPE.md](./SCOPE.md) for the full inclusion/exclusion rules and grey-area guidance. In short:
 
-**Out of scope**
-- Server-deployed / cloud-hosted agent platforms
-- Agents that only run as a hosted SaaS
-- Pure IDE extensions where the CLI is only a companion (IDE-first tools)
-- Inference engines without an agent loop
+**In scope:** CLI/TUI coding agents, sysadmin-style agents, tooling/orchestrators around agent CLIs, MCP servers, multi-agent frameworks that run locally, computer-use agents, harnesses, and desktop-agent protocols.
+
+**Out of scope:** cloud-hosted agent platforms, IDE-first tools where the CLI is only a companion, pure inference engines (Ollama, llama.cpp, vLLM) without an agent loop, and frameworks that don't support tool use / MCP directly.
 
 ## Badge Legend
 
@@ -43,8 +36,13 @@ Each entry is tagged with shields.io badges. The dynamic ones (stars, last commi
 - [2. Tooling Around Agent CLIs](#2-tooling-around-agent-clis)
   - [Session & Task Managers](#session--task-managers)
   - [Orchestrators](#orchestrators)
+  - [Tools & MCP Servers](#tools--mcp-servers)
+  - [Context & Data Access](#context--data-access)
 - [3. Multi-Agent Frameworks](#3-multi-agent-frameworks)
 - [4. Harnesses & Specifications](#4-harnesses--specifications)
+- [5. Agent Operating Systems / Computer Use](#5-agent-operating-systems--computer-use)
+- [6. Protocols](#6-protocols)
+- [7. Wallets & Payments](#7-wallets--payments)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 
