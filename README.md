@@ -883,6 +883,14 @@ A delightfully minimal, remarkably powerful AI shell assistant.
 
 ---
 
+#### [Tacet CLI](https://github.com/farukciftler/tacet-cli)
+
+![Stars](https://img.shields.io/github/stars/farukciftler/tacet-cli?style=social) ![Last commit](https://img.shields.io/github/last-commit/farukciftler/tacet-cli) ![Type](https://img.shields.io/badge/Type-3rd--party-lightgrey) ![UI](https://img.shields.io/badge/UI-CLI-green) ![Local](https://img.shields.io/badge/Local-Yes-orange) ![Tools](https://img.shields.io/badge/Tools-Yes-purple)
+
+A private personal assistant that lives in your terminal and runs 100% locally on-device — turns notes into Word/Excel documents, reads git diffs, executes code in a sandbox, with zero telemetry and total privacy.
+
+---
+
 #### [TmuxAI](https://github.com/alvinunreal/tmuxai)
 
 ![Stars](https://img.shields.io/github/stars/alvinunreal/tmuxai?style=social) ![Last commit](https://img.shields.io/github/last-commit/alvinunreal/tmuxai) ![UI](https://img.shields.io/badge/UI-TUI-green)
