@@ -595,6 +595,14 @@ Open-source multimodal AI agent stack connecting cutting-edge AI models and agen
 
 Desktop GUI applications for running agents, including the rapidly growing crop of open-source Claude Cowork alternatives.
 
+#### [AICraft](https://github.com/Easlie114514/AICraft)
+
+![Stars](https://img.shields.io/github/stars/Easlie114514/AICraft?style=social) ![Last commit](https://img.shields.io/github/last-commit/Easlie114514/AICraft) ![UI](https://img.shields.io/badge/UI-GUI-green) ![MCP](https://img.shields.io/badge/MCP-Yes-purple)
+
+Desktop AI capability launcher — manage LLM Skills, MCP tools, and memory via visual UI like Minecraft mods. One-click DeepSeek setup, role emotion portraits, 3-tier memory, built-in MCP servers (file manager + code executor). Portable exe, no installation required. | 桌面AI能力启动器，像Minecraft模组一样管理LLM技能、MCP工具和记忆，一键DeepSeek。
+
+---
+
 #### [Amon Agent](https://github.com/liruifengv/amon-agent)
 
 ![Stars](https://img.shields.io/github/stars/liruifengv/amon-agent?style=social) ![Last commit](https://img.shields.io/github/last-commit/liruifengv/amon-agent) ![UI](https://img.shields.io/badge/UI-GUI-green)
