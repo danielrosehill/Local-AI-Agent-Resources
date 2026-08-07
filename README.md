@@ -723,6 +723,14 @@ Open-source alternative to Claude Cowork built for teams, powered by opencode.
 
 ---
 
+#### [Orkas](https://github.com/Orkas-AI/Orkas)
+
+![Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social) ![Last commit](https://img.shields.io/github/last-commit/Orkas-AI/Orkas) ![UI](https://img.shields.io/badge/UI-GUI-green) ![Local](https://img.shields.io/badge/Local-Yes-orange)
+
+Open-source, local-first desktop AI workforce whose Commander coordinates specialist agents in parallel or sequence. By [Orkas-AI](https://github.com/Orkas-AI).
+
+---
+
 #### [skales](https://github.com/skalesapp/skales)
 
 ![Stars](https://img.shields.io/github/stars/skalesapp/skales?style=social) ![Last commit](https://img.shields.io/github/last-commit/skalesapp/skales) ![UI](https://img.shields.io/badge/UI-GUI-green) ![Local](https://img.shields.io/badge/Local-Yes-orange)
