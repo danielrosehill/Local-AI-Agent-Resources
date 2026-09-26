@@ -747,6 +747,14 @@ Desktop agent for any task.
 
 ---
 
+#### [vixl](https://github.com/vixl-ai/vixl)
+
+![Stars](https://img.shields.io/github/stars/vixl-ai/vixl?style=social) ![Last commit](https://img.shields.io/github/last-commit/vixl-ai/vixl) ![Type](https://img.shields.io/badge/Type-3rd--party-lightgrey) ![UI](https://img.shields.io/badge/UI-GUI-green) ![Local](https://img.shields.io/badge/Local-Yes-orange) ![MCP](https://img.shields.io/badge/MCP-Yes-purple) ![Use](https://img.shields.io/badge/Use-Code-yellow)
+
+vixl is a desktop coding agent whose loop runs on your machine. It supports bring-your-own keys, local OpenAI-compatible hosts, and MCP, with an editor, terminal, and git view in the workbench.
+
+---
+
 ## 7. Personal AI Assistants
 
 General-purpose, always-on personal assistants that run on your machine.
