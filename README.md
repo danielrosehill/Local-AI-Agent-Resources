@@ -1,5 +1,7 @@
 # Desktop AI Agents
 
+**Write-up:** [My curated AI indexes on GitHub: what each list covers](https://blog.danielrosehill.com/posts/curated-ai-indexes-awesome-lists-agents-evals-voice-au87cm/)
+
 A curated list of **on-device AI agent runners, harnesses, and tooling** — agents whose control loop runs locally on your desktop, laptop, or workstation rather than on a hosted cloud platform.
 
 The underlying *model* may be a hosted API (Anthropic, OpenAI, xAI, Mistral…) or a fully local engine (Ollama, llama.cpp, vLLM). What unifies this list is that **the harness lives on your machine**.
