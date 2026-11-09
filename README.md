@@ -257,9 +257,9 @@ Programmatically orchestrate thousands of agents and harnesses as a graph.
 
 ---
 
-#### [Agent Orchestrator](https://github.com/ComposioHQ/agent-orchestrator)
+#### [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator)
 
-![Stars](https://img.shields.io/github/stars/ComposioHQ/agent-orchestrator?style=social) ![Last commit](https://img.shields.io/github/last-commit/ComposioHQ/agent-orchestrator)
+![Stars](https://img.shields.io/github/stars/OrchestratorInc/agent-orchestrator?style=social) ![Last commit](https://img.shields.io/github/last-commit/OrchestratorInc/agent-orchestrator)
 
 Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and handles CI fixes, merge conflicts, and code reviews.
 
