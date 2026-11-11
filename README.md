@@ -725,6 +725,14 @@ Open-source alternative to Claude Cowork built for teams, powered by opencode.
 
 ---
 
+#### [Sahkarmi](https://github.com/ganguydhrubo/sahakarmi)
+
+![Stars](https://img.shields.io/github/stars/ganguydhrubo/sahakarmi?style=social) ![Last commit](https://img.shields.io/github/last-commit/ganguydhrubo/sahakarmi) ![UI](https://img.shields.io/badge/UI-GUI-green) ![MCP](https://img.shields.io/badge/MCP-Yes-purple) ![Tools](https://img.shields.io/badge/Tools-Yes-purple)
+
+Windows desktop app giving a small business a team of named AI coworkers, each with a role, its own folder, persistent memory and a task queue. Multi-agent team runs, scheduled routines, local document knowledge bases with cited sources, a browser per coworker, and an approval step before an agent pays, sends or posts. English, Hindi and Bengali. Apache-2.0, by [Dhrubojyoti Gangopadhyay](https://github.com/ganguydhrubo).
+
+---
+
 #### [skales](https://github.com/skalesapp/skales)
 
 ![Stars](https://img.shields.io/github/stars/skalesapp/skales?style=social) ![Last commit](https://img.shields.io/github/last-commit/skalesapp/skales) ![UI](https://img.shields.io/badge/UI-GUI-green) ![Local](https://img.shields.io/badge/Local-Yes-orange)
