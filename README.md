@@ -621,6 +621,14 @@ Multi-model AI agent desktop client — connect any provider, extend with MCP & 
 
 ---
 
+#### [Code Scout](https://frankvitetta.net/code-scout/)
+
+![Type](https://img.shields.io/badge/Type-3rd--party-lightgrey) ![UI](https://img.shields.io/badge/UI-GUI-green) ![Local](https://img.shields.io/badge/Local-Ollama-orange) ![Tools](https://img.shields.io/badge/Tools-Yes-purple) ![Use](https://img.shields.io/badge/Use-Code-yellow)
+
+Free native desktop coding agent with an orchestrator and coder split. It has shell, file and git tools plus local versus cloud model benchmarking. Runs local models through Ollama, LM Studio or llama.cpp. Tauri + React, no Electron.
+
+---
+
 #### [CoWork-OS](https://github.com/CoWork-OS/CoWork-OS)
 
 ![Stars](https://img.shields.io/github/stars/CoWork-OS/CoWork-OS?style=social) ![Last commit](https://img.shields.io/github/last-commit/CoWork-OS/CoWork-OS) ![Local](https://img.shields.io/badge/Local-Yes-orange)
