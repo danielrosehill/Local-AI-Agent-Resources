@@ -605,6 +605,14 @@ Amon — your AI coworker running on your desktop.
 
 ---
 
+#### [Atlarix](https://github.com/AmariahAK/atlarix-releases)
+
+![Stars](https://img.shields.io/github/stars/AmariahAK/atlarix-releases?style=social) ![Last commit](https://img.shields.io/github/last-commit/AmariahAK/atlarix-releases) ![UI](https://img.shields.io/badge/UI-GUI-green) ![Local](https://img.shields.io/badge/Local-Yes-orange) ![MCP](https://img.shields.io/badge/MCP-Yes-purple) ![Use](https://img.shields.io/badge/Use-Code-yellow)
+
+Proprietary desktop AI workstation for engineering teams — Explore / Plan / Build / Debug / Review modes, a sandboxed terminal, bundled-ripgrep search with no index, per-workspace MCP servers and Agent Skills, and up to five parallel sub-agents. Bring your own API key or run local models via Ollama / LM Studio, or use its managed Core tier; every edit and command waits for approval.
+
+---
+
 #### [ClawX](https://github.com/ValueCell-ai/ClawX)
 
 ![Stars](https://img.shields.io/github/stars/ValueCell-ai/ClawX?style=social) ![Last commit](https://img.shields.io/github/last-commit/ValueCell-ai/ClawX) ![UI](https://img.shields.io/badge/UI-GUI-green)
