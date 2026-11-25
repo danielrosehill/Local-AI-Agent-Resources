@@ -629,6 +629,14 @@ Self-hosted OS for personal AI agents. Security-first, multi-channel (WhatsApp, 
 
 ---
 
+#### [Cunning Claw](https://github.com/Dragon-Forge-master/cunning-claw)
+
+![Stars](https://img.shields.io/github/stars/Dragon-Forge-master/cunning-claw?style=social) ![Last commit](https://img.shields.io/github/last-commit/Dragon-Forge-master/cunning-claw) ![UI](https://img.shields.io/badge/UI-GUI-green) ![Local](https://img.shields.io/badge/Local-Yes-orange)
+
+Local agent with a browser HUD that drives your shell, browser, email and MCP servers, with approval cards before anything consequential. MIT.
+
+---
+
 #### [Deep Agents UI](https://github.com/langchain-ai/deep-agents-ui)
 
 ![Stars](https://img.shields.io/github/stars/langchain-ai/deep-agents-ui?style=social) ![Last commit](https://img.shields.io/github/last-commit/langchain-ai/deep-agents-ui) ![UI](https://img.shields.io/badge/UI-GUI-green)
