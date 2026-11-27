@@ -733,6 +733,16 @@ Local desktop AI agent for Windows/macOS/Linux with Agent Skills (SKILL.md), aut
 
 ---
 
+#### [Viyra Bots](https://github.com/INZIX-STUDIO/Viyra-Bots)
+
+[![Stars](https://img.shields.io/github/stars/INZIX-STUDIO/Viyra-Bots?style=social)](https://github.com/INZIX-STUDIO/Viyra-Bots/stargazers) [![Last commit](https://img.shields.io/github/last-commit/INZIX-STUDIO/Viyra-Bots)](https://github.com/INZIX-STUDIO/Viyra-Bots/commits/main) [![Type: 3rd-party](https://img.shields.io/badge/Type-3rd--party-lightgrey)](https://github.com/danielrosehill/Local-AI-Agent-Resources) [![Interface: GUI](https://img.shields.io/badge/UI-GUI-green)](https://github.com/danielrosehill/Local-AI-Agent-Resources) [![Tools: Yes](https://img.shields.io/badge/Tools-Yes-purple)](https://github.com/INZIX-STUDIO/Viyra-Bots)
+
+A Windows desktop workspace for local-running multi-agent personal workflows, including agent delegation, browser watchers, and autonomous workflows. The app runs locally on Windows but requires configured external model, search, and integration providers; data handling depends on those providers' policies. Closed-source public beta. Language not publicly disclosed; by [INZIX STUDIO](https://github.com/INZIX-STUDIO).
+
+---
+
+
+
 #### [witsy](https://github.com/nbonamy/witsy)
 
 ![Stars](https://img.shields.io/github/stars/nbonamy/witsy?style=social) ![Last commit](https://img.shields.io/github/last-commit/nbonamy/witsy) ![UI](https://img.shields.io/badge/UI-GUI-green) ![MCP](https://img.shields.io/badge/MCP-Yes-purple)
